@@ -8,6 +8,12 @@ and The Baby Ransomware v1.0.0.py is a lastest version of our project
 
 now I'm gonna develop The Baby Ransomware v1.0.1 
 
+
+step1-step4 คือโค้ดการทำงาน
+step 2 คือ ตัว generate key and iv
+step 3 คือ ตัว encryption , decryption ที่ยังไม่มี gui 
+step 4 คือโค้ดที่กำลังพัฒนา GUI อยู่
+
 ps.
 พิมภาษาอังกฤษให้ดูเท่ๆเฉยๆ 555555
 
